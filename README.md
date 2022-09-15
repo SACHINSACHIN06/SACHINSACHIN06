@@ -56,6 +56,7 @@ java program
 44. Average of positive negative numbers.
 45. palindrome reverse add.
 46. First Element as the Number and Second Element as the Square of the Number.
+47. Bank.
 
 
 
