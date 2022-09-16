@@ -57,6 +57,22 @@ java program
 45. palindrome reverse add.
 46. First Element as the Number and Second Element as the Square of the Number.
 47. Bank.
+48. Square Root of Perfect square Number.
+49. Remove Vowels from String.
+50. Frequency of Elements.
+51. fizzBuzz.
+52. Return the length of the last word in the string. A word is a maximal substring consisting of non-space characters only..
+53. How many days in month.
+54. parametrized contructor.
+55. Runnable Interface Fibo
+56. AIO.
+57. common element in two arrays of positive number.
+58. redzero.
+59. composite number in array.
+60. alpha sorting.
+61. removing vowels.
+
+
 
 
 
